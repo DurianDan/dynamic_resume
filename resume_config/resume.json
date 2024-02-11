@@ -1,0 +1,98 @@
+{
+  "allYourInfo": {
+    "avatar": "<pathOrUrlToAvatar>",
+    "contacts": {
+      "phoneNumber": "090909090909",
+      "address": "<address>",
+      "email": "mail@mail.com",
+      "linkedinUrl": "<linkedinUrl>",
+      "githubUrl": "<githubUrl>"
+    },
+    "experiences": {
+      "ProfessionalExperiences": [
+        {
+            "title": "",
+            "associated_url": null,
+            "associated_organization": "",
+            "date_range": "",
+            "description": [
+              {
+                "line": "help-code",
+                "tags": []
+              }
+            ],
+            "tags": []
+        },
+        {
+            "title": "",
+            "associated_url": null,
+            "associated_organization": "",
+            "date_range": "",
+            "description": [
+              {
+                "line": "help-code",
+                "tags": []
+              }
+            ],
+            "tags": []
+        },
+        {
+            "title": "",
+            "associated_url": null,
+            "associated_organization": "",
+            "date_range": "",
+            "description": [
+              {
+                "line": "help-code",
+                "tags": []
+              }
+            ],
+            "tags": []
+        },
+        {
+            "title": "",
+            "associated_url": null,
+            "associated_organization": "",
+            "date_range": "",
+            "description": [
+              {
+                "line": "help-code",
+                "tags": []
+              }
+            ],
+            "tags": []
+        },
+        {
+            "title": "",
+            "associated_url": null,
+            "associated_organization": "",
+            "date_range": "",
+            "description": [
+              {
+                "line": "help-code",
+                "tags": []
+              }
+            ],
+            "tags": []
+        }
+     ],
+      "projects": [],
+      "education": [],
+      "skills": [],
+      "certification": []
+    }
+  },
+  "resumeConfig": {
+    "positionFilter": {
+      "BackendEngineer": {
+        "mostRelatedTags": ["backend-engineer", "api", "deployment", "aws"]
+      },
+      "DataEngineer": {
+        "mostRelatedTags": ["data-engineer", "api"]
+      },
+      "FrontendEngineer": {
+        "mostRelatedTags": ["frontend-engineer", "user-interface", "design"]
+      }
+    }
+  }
+}
