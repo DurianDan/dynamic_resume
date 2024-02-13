@@ -7,11 +7,11 @@ Auto generate resume based on the position you are applying/hiring, based on goo
 - The folder `resume_config/` are meant for **manual customization**
 
 ## Todo:
-- Using **Go and HTMX** is more interesting, and allow further collaboration.
--> Folder `src/`: Migrate **Python** code to **Go**
+- Using **FastAPI and HTMX** is more interesting, and allow further collaboration.
+-> Folder `src/`: Migrate **Python** code.
 
 ## References:
-- [Golang + HTMX Tutorial][1]
+- [FastAPI + HTMX Tutorial][1]
 
 
-[1]:https://www.youtube.com/watch?v=F9H6vYelYyU
+[1]:https://github.com/marty331/fasthtmx
