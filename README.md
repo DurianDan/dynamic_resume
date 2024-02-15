@@ -1,5 +1,5 @@
 # dynamic_resume
-Auto generate resume based on the position you are applying/hiring, based on good resume design and manual configuration.
+Auto generate resume based on the position you are applying/hiring, using concise practical resume design and manual configuration.
 
 
 ## Project Progress

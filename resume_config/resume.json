@@ -5,11 +5,14 @@
       "phoneNumber": "090909090909",
       "address": "<address>",
       "email": "mail@mail.com",
-      "linkedinUrl": "<linkedinUrl>",
-      "githubUrl": "<githubUrl>"
+      "urls":{
+        "linkedinUrl": "<linkedinUrl>",
+        "githubUrl": "<githubUrl>",
+        "otherCustomUrl": "<customUrl>"
+      }
     },
     "experiences": {
-      "ProfessionalExperiences": [
+      "professionalExperiences": [
         {
             "title": "",
             "associated_url": null,
@@ -63,7 +66,7 @@
             "tags": []
         },
         {
-            "title": "",
+            "title": "Bioinformtician-Intern",
             "associated_url": null,
             "associated_organization": "",
             "date_range": "",
@@ -76,7 +79,7 @@
             "tags": []
         }
      ],
-      "projects": [],
+      "projectsCompetitions": [],
       "education": [],
       "skills": [],
       "certification": []
@@ -93,6 +96,9 @@
       "FrontendEngineer": {
         "mostRelatedTags": ["frontend-engineer", "user-interface", "design"]
       }
+    },
+    "design":{
+      "maxWordsInLine": 10
     }
   }
 }
